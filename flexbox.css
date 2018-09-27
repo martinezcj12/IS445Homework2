@@ -1,0 +1,44 @@
+header {
+        color: white;
+        background-color: blue;
+        padding: 10px;
+        border: 5px;
+        text-align: center;
+}
+                
+nav {
+        color: white;
+        background-color: green;
+}
+
+footer {
+        color: white;
+        background-color: green;  
+        text-align: center;
+}
+
+.Top {
+    color: white;
+    background-color: pink;
+}
+
+.One {
+    color: white;
+    background-color: red;
+}
+
+.Two {
+    color: white;
+    background-color: red;
+}
+
+.Aside {
+    color: white;
+    background-color: Blue;
+    text-align: center;
+    float: right;
+    width: 12.5%;
+    height: 50px;
+    padding: 60px;
+}
+
